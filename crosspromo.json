@@ -1,18 +1,1 @@
-{
-  "games": [
-    {
-      "title": "Rope Hero City 3D",
-      "image": "https://raw.githubusercontent.com/adbuzzllc/5g/refs/heads/master/black.mafia.ironboy.stickman.rope.heros.png",
-      "description": "Open world superhero game.",
-      "packageName": "black.mafia.ironboy.stickman.rope.heros",
-      "storeUrl": "https://play.google.com/store/apps/details?id=black.mafia.ironboy.stickman.rope.heros"
-    },
-    {
-      "title": "Zombie Run Survival",
-      "image": "https://raw.githubusercontent.com/adbuzzllc/5g/refs/heads/master/us.army.men.toys.mafia.rope.hero.gta.ganagste.jpg",
-      "description": "Run and survive the apocalypse!",
-      "packageName": "us.army.men.toys.mafia.rope.hero.gta.ganagste",
-      "storeUrl": "https://play.google.com/store/apps/details?id=us.army.men.toys.mafia.rope.hero.gta.ganagste"
-    }
-  ]
-}
+
