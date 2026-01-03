@@ -1,0 +1,20 @@
+{
+  "crossPromoConfig": {
+    "games": [
+      {
+        "title": "Perfect Lie",
+        "packageName": "com.supersonic.perfectlie",
+        "priority": 10,
+        "text": "James! Pay attention...",
+        "imageUrl": "https://play-lh.googleusercontent.com/oiNWaWsPWPa32vHi4TI9F_9h5_BAnh_aRIcc5u5ly4lSj6lkFgMH7nirNP4ei5cY8jg=w800-h600-rw"
+      },
+      {
+        "title": "Bridge Race",
+        "packageName": "com.supersonic.bridgerace",
+        "priority": 5,
+        "text": "Build the fastest!",
+        "imageUrl": "https://play-lh.googleusercontent.com/oiNWaWsPWPa32vHi4TI9F_9h5_BAnh_aRIcc5u5ly4lSj6lkFgMH7nirNP4ei5cY8jg=w800-h600-rw"
+      }
+    ]
+  }
+}
