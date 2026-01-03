@@ -10,7 +10,7 @@
       },
       {
         "title": "Bridge Race",
-        "packageName": "com.gangstetgames.simcrim.robotcar.sim",
+        "packageName": "com.ganmes.simcrim.robotcar.sim",
         "priority": 5,
         "text": "Build the fastest!",
         "imageUrl": "https://play-lh.googleusercontent.com/aTRg29zhoHXiy88KTDXL8mMEvbk0xCi0KHwu9u6kapMSAh6EihRGksQfCYc82pq5Tg=w800-h600-rw"
