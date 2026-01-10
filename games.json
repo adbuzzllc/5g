@@ -2,18 +2,18 @@
   "crossPromoConfig": {
     "games": [
       {
-        "title": "Perfect Lie",
+        "title": "Obby Parkour: Run and Fun",
         "packageName": "com.obbyworld.online.parkour.rpg",
         "priority": 10,
         "text": "James! Pay attention...",
-        "imageUrl": "https://play-lh.googleusercontent.com/oiNWaWsPWPa32vHi4TI9F_9h5_BAnh_aRIcc5u5ly4lSj6lkFgMH7nirNP4ei5cY8jg=w800-h600-rw"
+        "imageUrl": "https://play-lh.googleusercontent.com/enMK0J7RPsmKq8RIyJTxitRS86b4338NkjJrAtghw6e0PvnqhrGZwB_cpdprG6o2cpMsurbui_gaWL6D0mm4_w=w480-h960-rw"
       },
       {
-        "title": "Bridge Race",
-        "packageName": "com.ganmes.simcrim.robotcar.sim",
+        "title": "Thanos Rope Hero: Vice Town",
+        "packageName": "com.unity3d.thanosropeherovicetown",
         "priority": 5,
         "text": "Build the fastest!",
-        "imageUrl": "https://play-lh.googleusercontent.com/aTRg29zhoHXiy88KTDXL8mMEvbk0xCi0KHwu9u6kapMSAh6EihRGksQfCYc82pq5Tg=w800-h600-rw"
+        "imageUrl": "https://play-lh.googleusercontent.com/aZ79OVDaumS2RkUwYAYK-9WqGly2Znb5dSeah6XbqWX9QLjjpREs-6QrlKDdJWplQ17Or1HCcelfDVktuB1bZw=w480-h960-rw"
       }
     ]
   }
