@@ -1,1 +1,18 @@
-
+ "crossPromoConfig": {
+    "games": [
+      {
+        "title": "Obby Parkour: Run and Fun",
+        "packageName": "com.miamivegasim.gangstercityworld",
+        "priority": 10,
+        "text": "James! Pay attention...",
+        "imageUrl": "https://play-lh.googleusercontent.com/7iV-uHwrG59_rARARFbI0PeRczSpJC0eBn3ETk4pleXIHo92txzPHKwjldotp_lMXl20v1fv2ivIQwlmAEM=w240-h480-rw"
+      },
+      {
+        "title": "Thanos Rope Hero: Vice Town",
+        "packageName": "com.vegascrime.gangstercityworld",
+        "priority": 5,
+        "text": "Build the fastest!",
+        "imageUrl": "https://play-lh.googleusercontent.com/UXxPUTQJUp3JK13GAU-d2PyQODniU4M-xfq6SA1GiGgQlHbp7NYIwubh0CtVyW9ebMqUmaOr0jVlNGSGqsNRhA=w240-h480-rw"
+      }
+    ]
+  }
