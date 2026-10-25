@@ -3,17 +3,17 @@
     "games": [
       {
         "title": "Obby Parkour: Run and Fun",
-        "packageName": "com.miamivegasim.gangstercityworld",
+        "packageName": "com.newopen.realworld",
         "priority": 10,
         "text": "James! Pay attention...",
-        "imageUrl": "https://play-lh.googleusercontent.com/7iV-uHwrG59_rARARFbI0PeRczSpJC0eBn3ETk4pleXIHo92txzPHKwjldotp_lMXl20v1fv2ivIQwlmAEM=w240-h480-rw"
+        "imageUrl": "https://play-lh.googleusercontent.com/A5eq-tTdynkz3UuasO3Ut_99E2SmIq9G1smfoDP-RJgFb6xF6-iw-OTRwDcq2uTzfC_W4KoQna21L9Dj57TLZg=w240-h480-rw"
       },
       {
         "title": "Thanos Rope Hero: Vice Town",
-        "packageName": "com.vegascrime.gangstercityworld",
+        "packageName": "com.gangstasim.realworld",
         "priority": 5,
         "text": "Build the fastest!",
-        "imageUrl": "https://play-lh.googleusercontent.com/UXxPUTQJUp3JK13GAU-d2PyQODniU4M-xfq6SA1GiGgQlHbp7NYIwubh0CtVyW9ebMqUmaOr0jVlNGSGqsNRhA=w240-h480-rw"
+        "imageUrl": "https://play-lh.googleusercontent.com/QWeYvSL725bBPiCYyxaENQxlORuqt3zkDy4KgNJyJQYDQ7xoxTOdYKYhqzaVFC1oWuEVX3WM6xiUuP6FuyES2w=w240-h480-rw"
       }
     ]
   }
